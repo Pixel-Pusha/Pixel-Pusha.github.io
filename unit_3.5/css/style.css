@@ -1,0 +1,187 @@
+* { 
+	margin: 0;
+	box-sizing: border-box;
+	padding: 0;
+}
+
+
+.hero {
+	background: url('../images/techno.jpg');
+	background-size: cover; 
+	height: 800px;
+	background-repeat: no-repeat;
+}
+	
+body {
+	background-color: #232323; 
+}	
+
+h1 {
+	position: relative;
+    top: 14px;
+    left: 377px;
+	text-align: center;
+	font-size: 48px;
+	font-family: Helvetica;
+	color: #979797;
+}
+
+.logo {
+	float: left;
+	width: 8%;
+
+}
+
+.button {
+	background-color: #00ffc0;
+	width: 15em;
+	display: block;
+	padding: 1.25em 0;
+	color: black;
+	margin: 1.5em auto;
+	border-radius: .5em;
+	text-align: center;
+	text-decoration: none;
+}
+
+.button2 {
+    background-color: #ff009c;
+   width: 15em;
+	display: block;
+	padding: 1.25em 0;
+	color: black;
+	margin: 1.5em auto;
+	border-radius: .5em;
+	text-align: center;
+	text-decoration: none;
+}
+
+.button3 {
+    background-color: #ffd800;
+   width: 15em;
+	display: block;
+	padding: 1.25em 0;
+	color: black;
+	margin: 1.5em auto;
+	border-radius: .5em;
+	text-align: center;
+	text-decoration: none;
+}
+
+.button4 {
+	background-color: #ffd800;
+   width: 15em;
+	display: block;
+	padding: 1.25em 0;
+	color: black;
+	margin: 1.5em auto;
+	border-radius: .5em;
+	text-align: center;
+	text-decoration: none;
+
+}
+.hero2 {
+	background: url('../images/darling.jpg');
+	background-size: cover; 
+	height: 1079px;
+	background-repeat: no-repeat;
+}
+
+h3 {
+	position: relative;
+    top: 160px;
+    left: -600px;
+	text-align: center;
+	font-size: 24px;
+	font-family: Helvetica;
+	color: #979797;
+}
+
+.visuald {
+	position: relative;
+    top: 180px;
+    left: -600px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Helvetica;
+	color: #979797;
+} 
+
+.coding {
+	position: relative;
+    top: 10px;
+    left: -70px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Helvetica;
+	color: #979797;
+} 
+
+.h32 {
+	position: relative;
+    top: 99px;
+    left: 600px;
+	text-align: center;
+	font-size: 24px;
+	font-family: Helvetica;
+	color: #979797;
+}
+
+
+.resume {
+	background: url('../images/workhis.jpg');
+	background-size: cover; 
+	height: 1069px;
+	background-repeat: no-repeat;
+}
+
+.logo2 {
+	width: 10em;
+	position: relative;
+	top: 2em;	
+	left: 30em;
+
+}
+
+.logo3 {
+	width: 10em;
+	position: relative;
+	top: 2em;	
+	left: 72em;
+}
+
+.logo4 {
+	width: 10em;
+	position: relative;
+	top: 1em;	
+	left: 80em;
+
+}
+
+.logo5 {
+	width: 10em;	
+	position: relative;
+	top: 3em;
+	left: -20em;
+}
+
+.friends {
+	text-align: center;
+	color: #979797;
+}
+
+.ending {
+	background: url('../images/blox.jpg');
+	background-size: cover; 
+	height: 800px;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+.endingtext {
+	text-align: center;
+	position: relative;
+	top: 10em;
+	font-size: 36px;
+	color: #979797;
+}
