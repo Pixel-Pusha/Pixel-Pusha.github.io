@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Domine');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
 * { 
 	margin: 0;
 	box-sizing: border-box;
@@ -14,43 +17,82 @@
 	
 body {
 	background-color: #232323; 
-	font-family:;
-	font-size:16px;
-	color:#979797;
 }	
 
 h1 {
+	position: center;
+    top: 14px;
+    left: 377px;
 	text-align: center;
-	font-size: 3em;
-	font-family: Helvetica;
+	font-size: 48px;
+	font-family: Poppins;
+	color: #979797;
 }
 
 .logo {
+	float: left;
 	width: 8%;
+
 }
 
-.button, .button2, .button3 {
+.button {
 	background-color: #00ffc0;
 	width: 15em;
 	display: block;
 	padding: 1.25em 0;
-	color: #000;
+	color: black;
 	margin: 1.5em auto;
 	border-radius: .5em;
-	text-align:center;
-	text-decoration:none;
-}
-.button2 {
-    background-color: #ff009c;
-}
-.button3 {
-    background-color: #ffd800;
+	text-align: center;
+	text-decoration: none;
+	font-family: Poppins;
+	color: #000000;
 }
 
+.button2 {
+    background-color: #ff009c;
+   width: 15em;
+	display: block;
+	padding: 1.25em 0;
+	color: black;
+	margin: 1.5em auto;
+	border-radius: .5em;
+	text-align: center;
+	text-decoration: none;
+	font-family: Poppins;
+	color: #000000;
+}
+
+.button3 {
+    background-color: #ffd800;
+   width: 15em;
+	display: block;
+	padding: 1.25em 0;
+	color: black;
+	margin: 1.5em auto;
+	border-radius: .5em;
+	text-align: center;
+	text-decoration: none;
+	font-family: Poppins;
+	color: #000000;
+}
+
+.button4 {
+	background-color: #ffd800;
+   width: 15em;
+	display: block;
+	padding: 1.25em 0;
+	color: black;
+	margin: 1.5em auto;
+	border-radius: .5em;
+	text-align: center;
+	text-decoration: none;
+
+}
 .hero2 {
 	background: url('../images/darling.jpg');
 	background-size: cover; 
-	height: 800px;
+	height: 1079px;
 	background-repeat: no-repeat;
 }
 
@@ -60,41 +102,99 @@ h3 {
     left: -600px;
 	text-align: center;
 	font-size: 24px;
-	font-family: Helvetica;
+	font-family: Poppins;
 	color: #979797;
 }
 
 .visuald {
+	position: relative;
+    top: 180px;
+    left: -600px;
 	text-align: center;
 	font-size: 16px;
-	font-family: Helvetica;
+	font-family: Domine;
 	color: #979797;
 } 
 
 .coding {
+	position: relative;
+    top: 10px;
+    left: -70px;
 	text-align: center;
 	font-size: 16px;
-	font-family: Helvetica;
+	font-family: Domine;
 	color: #979797;
 } 
 
 .h32 {
+	position: relative;
+    top: 99px;
+    left: 600px;
 	text-align: center;
 	font-size: 24px;
-	font-family: Helvetica;
+	font-family: Poppins;
 	color: #979797;
 }
+
+
 .resume {
 	background: url('../images/workhis.jpg');
 	background-size: cover; 
-	height: 800px;
+	height: 1069px;
 	background-repeat: no-repeat;
+	font-family: Poppins;
+	color: #979797;
 }
 
 .logo2 {
-	width: 230px;
+	width: 10em;
+	position: relative;
+	top: 2em;	
+	left: 30em;
+
 }
 
 .logo3 {
-	width: 250px;
+	width: 10em;
+	position: relative;
+	top: 2em;	
+	left: 72em;
+}
+
+.logo4 {
+	width: 10em;
+	position: relative;
+	top: 1em;	
+	left: 80em;
+
+}
+
+.logo5 {
+	width: 10em;	
+	position: relative;
+	top: 3em;
+	left: -20em;
+}
+
+.friends {
+	text-align: center;
+	color: #979797;
+}
+
+.ending {
+	background: url('../images/blox.jpg');
+	background-size: cover; 
+	height: 800px;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+.endingtext {
+	text-align: center;
+	position: relative;
+	top: 10em;
+	font-size: 36px;
+	color: #979797;
+	font-family: Poppins;
+	
 }
